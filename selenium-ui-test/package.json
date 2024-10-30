@@ -1,0 +1,21 @@
+{
+  "name": "ppmpl-4",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/ui.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.0",
+    "selenium-webdriver": "^4.25.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
