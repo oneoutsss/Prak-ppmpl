@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "scripts": {
     "test": "jest"
   },
@@ -14,5 +15,11 @@
   },
   "dependencies": {
     "chai": "^4.5.0"
+=======
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^10.7.3",
+    "sinon": "^19.0.2"
+>>>>>>> e3c8a01e758be11b815f22ae22eb246dbe0a05b0
   }
 }
